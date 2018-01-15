@@ -1,0 +1,6 @@
+framework module Pods_RunFunUITests {
+  umbrella header "Pods-RunFunUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
